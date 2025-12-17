@@ -11,6 +11,9 @@ export default function Home() {
      alert("submitted");
   }
 
+
+
+
   const handleClick = (e:MouseEvent)=>{
   alert( e.target);
   };
